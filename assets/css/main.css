@@ -2205,6 +2205,7 @@ input, select, textarea {
 	#header {
 		position: relative;
 		margin: 0;
+		background-color: rgb(19, 13, 13);
 		background-image: url("images/overlay.png"), url("../../images/headeredit-geert.jpg");
 		background-size: auto, cover;
 		background-position: top left, center center;
