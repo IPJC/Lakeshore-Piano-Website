@@ -2,7 +2,7 @@
 This website is made for a piano studio featuring reviews and a contact form.
 **Link to project:** https://lakeshorepianostudios.netlify.app/
 
-![screenshot of piano studio](https://github.com/agathazuch/Portfolio-Project--Lakeshore-Piano-Website/blob/main/images/lakeshorepianozoom.png)
+![screenshot of piano studio](/images/lakeshorepianozoom.png)
 
 ## How It's Made:
 
