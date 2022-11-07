@@ -9,7 +9,6 @@ This website is made for a piano studio featuring reviews and a contact form.
 **Tech used:** HTML, CSS, JavaScript
 
 ## Optimizations
-*(optional)*
 
 I hope to add more pages for contact and events. I would also like to add a data cache and a tab image gallery for the reviews. 
 
